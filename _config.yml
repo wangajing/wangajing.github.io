@@ -1,0 +1,23 @@
+markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+domain: www.wangajing.net
+title: Ajing Wang 's Blog
+description: I want to create some thing make world better. 
+author: Ajing Wang
+email: emailtoajing#gmail
+github: wangajing
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
